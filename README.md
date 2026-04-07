@@ -1,8 +1,8 @@
 
 # 🧮 Scientific Calculator
 
-A responsive and interactive **Scientific Calculator** built using HTML, CSS and JavaScript.  
-This project performs both **basic and scientific mathematical calculations** with a clean UI and **Dark/Light mode toggle**.
+- A responsive and interactive **Scientific Calculator** built using HTML, CSS and JavaScript.  
+- This project performs both **basic and scientific mathematical calculations** with a clean UI and **Dark/Light mode toggle**.
 
 ---
 
