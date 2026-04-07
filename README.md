@@ -17,4 +17,10 @@ This project performs both **basic and scientific mathematical calculations** wi
 1. Clone the repository:
    ```bash
    git clone https://github.com/Srimathy-S/Scientific_Calculator.git
-   
+
+---
+
+## 👩‍💻 Author
+
+**Srimathy S**  
+
